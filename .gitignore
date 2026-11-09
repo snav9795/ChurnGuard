@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.pytest_cache/
+.env
+.env.*
+!.env.example
+secrets.toml
+*.pem
+*.key
+scratch/
+data/raw/
+data/processed/
+models/
